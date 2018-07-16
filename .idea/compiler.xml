@@ -9,6 +9,7 @@
         <module name="004-spring-cloud" />
         <module name="eureka-client" />
         <module name="eureka-server" />
+        <module name="service-feign" />
         <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
