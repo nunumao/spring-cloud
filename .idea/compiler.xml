@@ -12,6 +12,7 @@
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
   </component>
