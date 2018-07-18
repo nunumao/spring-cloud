@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="004-spring-cloud" />
         <module name="cloud" />
+        <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-client" />
         <module name="eureka-server" />
